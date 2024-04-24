@@ -23,4 +23,4 @@ This is a weather application developed with React, which utilizes APIs to provi
 
 ## Access / Preview
 
-- To access the application, you can click [here]()
+- To access the application, you can click here:- [https://digital-paani-weather-app.netlify.app/]()
